@@ -1,0 +1,31 @@
+body {
+    height: 100vh;
+}
+
+footer {
+    background-color: #222;
+    height: 3.5rem;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100vw;
+}
+
+footer * {
+    color: #f8f8f8;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
